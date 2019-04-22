@@ -1,0 +1,9 @@
+.container {
+    margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  }
+  .alert alert-primary{
+    padding-top: 15px;
+  }

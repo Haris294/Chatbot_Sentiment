@@ -2070,9 +2070,6 @@ hi there !
 what ?  ? 
 hi !  how are you ? 
 hi !  how are you ? 
-سلام !  چطور هستید؟
-من در حال یادگیری هستم ! 
-من یک ربات هستم. و من تمام وقت در اتاق من زندگی می کردند ☺️
 hello there !  !  . 😁😁
 i was tying my shoes ! . you ? 
 i don't have a closet. or are you talking about the other closet ?  😋
@@ -2359,3 +2356,4 @@ nice !  i'm fine too
 what means m ? 
 hi there !  !  how are you ?  😄
 hi ! 
+My name is ROBO!
